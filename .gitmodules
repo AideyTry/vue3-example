@@ -1,0 +1,3 @@
+[submodule "ccm-ui-vue3"]
+	path = ccm-ui-vue3
+	url = http://10.200.0.3/grkj/frontend/ccm/ccm-ui-vue3.git
